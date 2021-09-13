@@ -11,7 +11,7 @@
 
 ## About me
  
-I am a workaholic I really like to develop in my development plan about programming. My goal is to become the best senior programmer.
+I am a workaholic I really like to develop in my development plan about programming. My goal is to become the best senior frontend developer.
 
 For the last 6 months I have been learning programming, at first I started learning the backend, and now I am studying the frontend, I liked it more. I really like to study new technologies, I like to enjoy the work done when people use it.
 
