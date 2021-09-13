@@ -1,7 +1,7 @@
 # Manuchekhr Klichev
 
 ## Contacts
-- Email: [klichev@mail.ru](mailto:klichev2012@mail.com)
+- Email: [klichev2012@mail.ru](mailto:klichev2012@mail.com)
 
 - Phone: [+998(99)1184213][tel:+998991184213]
 
